@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'icomoon';
-  src:url('../fonts/icomoon.woff');
+  src:url('/fonts/icomoon/fonts/.woff');
 }
 
 html,
