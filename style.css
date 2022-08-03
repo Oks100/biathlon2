@@ -1,5 +1,16 @@
 @import url('nullstyle.css');
 
+@font-face {
+  font-family: 'icomoon';
+  src:url('../fonts/icomoon/fonts/.eot?-m6u1i9');
+  src:url('../fonts/icomoon/fonts/.eot?#iefix-m6u1i9') format('embedded-opentype'),
+      url('../fonts/icomoon/fonts/.woff') format('woff'),
+      url('../fonts/icomoon/fonts/.ttf') format('truetype'),
+      url('../fonts/icomoon/fonts/.svg?-m6u1i9#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html,
 body {
   padding: 0;
