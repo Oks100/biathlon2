@@ -605,7 +605,7 @@ body {
 .header__number-massage span {
   font-weight: 600;
 }
-.header__number-massage .icon-number33::before {
+.header__number-massage span::before {
   content: "\e920";
   font-family: 'icomoon';
   color: red;
