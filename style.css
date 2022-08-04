@@ -1,10 +1,5 @@
 @import url('nullstyle.css');
 
-@font-face {
-  font-family: 'icomoon';
-  src:url('/fonts/icomoon/fonts/.woff');
-}
-
 html,
 body {
   padding: 0;
@@ -610,7 +605,7 @@ body {
 .header__number-massage span {
   font-weight: 600;
 }
-.header__number-massage span::before {
+.header__number-massage .icon-number33::before {
   content: "\e920";
   font-family: 'icomoon';
   color: red;
