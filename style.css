@@ -5150,7 +5150,7 @@ html[data-theme="Black"] .header__logo a img, html[data-theme="Black"] .footer__
   content: url(img/logo-black.png);
 }
 
-/* .swiper-container2 .swiper-wrapper {
+.swiper-container2 .swiper-wrapper {
   -webkit-transition-timing-function: linear !important;
   transition-timing-function: linear !important;
-} */
+}
